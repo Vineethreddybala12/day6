@@ -1,10 +1,11 @@
 # day6
 AI&amp;ML DAY-6 TASK 
+
  🌸 K-Nearest Neighbors (KNN) Classification - Iris Dataset
 
  📌 Objective 
  
-To understand and implement the K-Nearest Neighbors (KNN) algorithm for solving classification problems using the *Iris Dataset*.
+  To understand and implement the K-Nearest Neighbors (KNN) algorithm for solving classification problems using the *Iris Dataset*.
 
 ---
 
